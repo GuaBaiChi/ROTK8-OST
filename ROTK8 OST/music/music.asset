@@ -1,96 +1,120 @@
 music = {
-	name = "amongthepoor"
-	file = "amongthepoor.ogg"
+	name = "00 Opening Theme"
+	file = "00 Opening Theme.ogg"
 }
 music = {
-	name = "battleoflepanto"
-	file = "battleoflepanto.ogg"
+	name = "01 Invitation to the Three Kingdoms"
+	file = "01 Invitation to the Three Kingdoms.ogg"
 }
 music = {
-	name = "commerceinthepeninsula"
-	file = "commerceinthepeninsula.ogg"
+	name = "03 Theme of the North"
+	file = "03 Theme of the North.ogg"
 }
 music = {
-	name = "dehominisdignitate"
-	file = "dehominisdignitate.ogg"
+	name = "04 Theme of Central Plains"
+	file = "04 Theme of Central Plains.ogg"
 }
 music = {
-	name = "eire"
-	file = "eire.ogg"
+	name = "05 Theme of the South"
+	file = "05 Theme of the South.ogg"
 }
 music = {
-	name = "event_war_battleofbreitenfeld"
-	file = "event_war_battleofbreitenfeld.ogg"
+	name = "06 Theme of Western Shu"
+	file = "06 Theme of Western Shu.ogg"
 }
 music = {
-	name = "inthestreets"
-	file = "inthestreets.ogg"
+	name = "07 Theme of Nanman"
+	file = "07 Theme of Nanman.ogg"
 }
 music = {
-	name = "kingscourt"
-	file = "kingscourt.ogg"
+	name = "08 Diplomacy"
+	file = "08 Diplomacy.ogg"
 }
 music = {
-	name = "kingsinthenorth"
-	file = "kingsinthenorth.ogg"
+	name = "09 Council of Exiled Force"
+	file = "09 Council of Exiled Force.ogg"
 }
 music = {
-	name = "machiavelli"
-	file = "machiavelli.ogg"
+	name = "10 Council of Normal Force"
+	file = "10 Council of Normal Force.ogg"
 }
 music = {
 	name = "maintheme"
 	file = "maintheme.ogg"
 }
 music = {
-	name = "mood_discovery"
-	file = "mood_discovery.ogg"
+	name = "11 Council of Large Force"
+	file = "11 Council of Large Force.ogg"
 }
 music = {
-	name = "moodevent_thesnowiscoming"
-	file = "moodevent_thesnowiscoming.ogg"
+	name = "12 Battle Council"
+	file = "12 Battle Council.ogg"
 }
 music = {
-	name = "mood_landinsight"
-	file = "mood_landinsight.ogg"
+	name = "13 Battle of the North"
+	file = "13 Battle of the North.ogg"
 }
 music = {
-	name = "mykingdom"
-	file = "mykingdom.ogg"
+	name = "14 Battle of Central Plains"
+	file = "14 Battle of Central Plains.ogg"
 }
 music = {
-	name = "nighttime"
-	file = "nighttime.ogg"
+	name = "15 Battle of the South"
+	file = "15 Battle of the South.ogg"
 }
 music = {
-	name = "openseas"
-	file = "openseas.ogg"
+	name = "16 Battle of Western Shu"
+	file = "16 Battle of Western Shu.ogg"
 }
 music = {
-	name = "rideforthvictoriously"
-	file = "rideforthvictoriously.ogg"
+	name = "17 Battle of Nanman"
+	file = "17 Battle of Nanman.ogg"
 }
 music = {
-	name = "theageofdiscovery"
-	file = "theageofdiscovery.ogg"
+	name = "18 Fierce Battle"
+	file = "18 Fierce Battle.ogg"
 }
 music = {
-	name = "theendofanera_endcredits"
-	file = "theendofanera_endcredits.ogg"
+	name = "19 Duel"
+	file = "19 Duel.ogg"
 }
 music = {
-	name = "thesoundofsummer"
-	file = "thesoundofsummer.ogg"
+	name = "20 Turmoil"
+	file = "20 Turmoil.ogg"
 }
 music = {
-	name = "thestageisset"
-	file = "thestageisset.ogg"
+	name = "21 Peace"
+	file = "21 Peace.ogg"
 }
 music = {
-	name = "thestonemasons"
-	file = "thestonemasons.ogg"
+	name = "22 Love"
+	file = "22 Love.ogg"
 }
 music = {
-	name = "war_offtowar"
-	file = "war_offtowar.ogg"
+	name = "23 Friendship"
+	file = "Friendship.ogg"
+}
+music = {
+	name = "24 Courage"
+	file = "24 Courage.ogg"
+}
+music = {
+	name = "25 Scheme"
+	file = "25 Scheme.ogg"
+}
+music = {
+	name = "26 Tragedy"
+	file = "26 Tragedy.ogg"
+}
+music = {
+	name = "27 Death"
+	file = "27 Death.ogg"
+}
+music = {
+	name = "28 Unification"
+	file = "28 Unification.ogg"
+}
+music = {
+	name = "29 Ending Theme"
+	file = "29 Ending Theme.ogg"
 }

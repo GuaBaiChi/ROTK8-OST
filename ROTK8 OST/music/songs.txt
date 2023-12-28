@@ -8,290 +8,352 @@ song = {
 	}
 }
 
-
+// can replace 'maintheme'
 song = {
-	name = "amongthepoor"
+	name = "00 Opening Theme"
 	
 	chance = {
+		modifier = {
+			factor = 1
+		}		
 		modifier = {
 			factor = 0
 			is_at_war = yes
-		}		
+		}
 	}
-}
-
+} 
 
 song = {
-	name = "battleoflepanto"
-	
-	chance = {
-		modifier = {
-			factor = 1.25
-			is_at_war = yes
-		}		
-	}
-}
-
-song = {
-	name = "commerceinthepeninsula"
-	
-	chance = {
-		modifier = {
-			factor = 0.75
-			is_at_war = yes
-		}		
-	}
-}
-
-song = {
-	name = "dehominisdignitate"
+	name = "01 Invitation to the Three Kingdoms"
 	
 	chance = {
 		modifier = {
 			factor = 1
-		}		
-	}
-}
-
-song = {
-	name = "eire"
-	
-	chance = {
-		modifier = {
-			factor = 1.5
-			is_at_war = no
-		}		
-	}
-}
-
-
-song = {
-	name = "event_war_battleofbreitenfeld"
-	
-	chance = {
-		modifier = {
-			factor = 1.5
-			is_at_war = yes
-		}			
-	}
-}
-
-song = {
-	name = "inthestreets"
-	
-	chance = {
-		modifier = {
-			factor = 1.5
-			is_at_war = no
-		}		
-	}
-}
-
-song = {
-	name = "kingscourt"
-	
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-
-song = {
-	name = "kingsinthenorth"
-	
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-
-song = {
-	name = "machiavelli"
-	
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-
-song = {
-	name = "mood_discovery"
-	
-	chance = {
-		modifier = {
-			factor = 1.5
-			num_of_colonists = 1
-		}		
-	}
-}
-
-song = {
-	name = "mood_landinsight"
-	
-	chance = {
-		modifier = {
-			factor = 1.25
-			is_at_war = no
-		}		
-	}
-}
-
-song = {
-	name = "moodevent_thesnowiscoming"
-	
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-
-song = {
-	name = "mykingdom"
-	
-	chance = {
-		modifier = {
-			factor = 1.25
-			is_at_war = yes
-		}		
-	}
-}
-
-
-song = {
-	name = "nighttime"
-	
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-
-
-song = {
-	name = "openseas"
-	
-	chance = {
-		modifier = {
-			factor = 1.25
-			is_at_war = no
-		}			
-	}
-}
-
-song = {
-	name = "rideforthvictoriously"
-	
-	chance = {
-		modifier = {
-			factor = 0
-			is_at_war = no
-		}		
-		modifier = {
-			factor = 1.5
-			is_at_war = yes
-		}		
-	}
-}
-
-song = {
-	name = "theageofdiscovery"
-	
-	chance = {
+		}	
 		modifier = {
 			factor = 0
 			is_at_war = yes
 		}	
-		modifier = {
-			factor = 1.5
-			num_of_colonists = 1
-		}			
 	}
-}
-
+} 
 
 song = {
-	name = "theendofanera_endcredits"
+	name = "03 Theme of the North"
 	
 	chance = {
 		modifier = {
-			factor = 0
-			is_at_war = no
-		}				
-	}
-}
-
-
-song = {
-	name = "thesoundofsummer"
-	
-	chance = {
+			factor = 1
+		}		
 		modifier = {
 			factor = 0
 			is_at_war = yes
-		}			
+		}
 	}
-}
+} 
 
 song = {
-	name = "thestageisset"
+	name = "04 Theme of Central Plains"
 	
 	chance = {
 		modifier = {
-			factor = 1.25
+			factor = 1
+		}
+		modifier = {
+			factor = 0
 			is_at_war = yes
 		}		
 	}
-}
+} 
 
 song = {
-	name = "thestonemasons"
+	name = "05 Theme of the South"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+		modifier = {
+			factor = 0
+			is_at_war = yes
+		}		
+	}
+} 
+
+song = {
+	name = "06 Theme of Western Shu"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+		modifier = {
+			factor = 0
+			is_at_war = yes
+		}		
+	}
+} 
+
+song = {
+	name = "07 Theme of Nanman"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+		modifier = {
+			factor = 0
+			is_at_war = yes
+		}		
+	}
+} 
+
+song = {
+	name = "08 Diplomacy"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+		modifier = {
+			factor = 0
+			is_at_war = yes
+		}		
+	}
+} 
+
+song = {
+	name = "09 Council of Exiled Force"
 	
 	chance = {
 		modifier = {
 			factor = 1
 		}		
 	}
-}
-
+} 
 
 song = {
-	name = "war_offtowar"
+	name = "10 Council of Normal Force"
 	
 	chance = {
 		modifier = {
-			factor = 0
-			is_at_war = no
+			factor = 1
 		}		
 	}
-}
+} 
+
+song = {
+	name = "11 Council of Large Force"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+} 
+
+song = {
+	name = "12 Battle Council"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+} 
+
+song = {
+	name = "13 Battle of the North"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+} 
+
+song = {
+	name = "14 Battle of Central Plains"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+} 
+
+song = {
+	name = "15 Battle of the South"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+} 
+
+song = {
+	name = "16 Battle of Western Shu"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+} 
+
+song = {
+	name = "17 Battle of Nanman"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+} 
+
+song = {
+	name = "18 Fierce Battle"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+} 
+
+song = {
+	name = "19 Duel"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+} 
+
+song = {
+	name = "20 Turmoil"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+} 
+
+song = {
+	name = "21 Peace"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+		modifier = {
+			factor = 0
+			is_at_war = yes
+		}		
+	}
+} 
+
+song = {
+	name = "22 Love"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+		modifier = {
+			factor = 0
+			is_at_war = yes
+		}		
+	}
+} 
+
+song = {
+	name = "23 Friendship"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+		modifier = {
+			factor = 0
+			is_at_war = yes
+		}		
+		modifier = {
+			factor = 0
+			is_at_war = yes
+		}
+	}
+} 
+
+song = {
+	name = "24 Courage"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+} 
+
+song = {
+	name = "25 Scheme"
+
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+} 
+
+song = {
+	name = "26 Tragedy"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+} 
+
+song = {
+	name = "27 Death"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+} 
+
+song = {
+	name = "28 Unification"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+		modifier = {
+			factor = 0
+			is_at_war = yes
+		}
+	}
+} 
+
+song = {
+	name = "29 Ending Theme"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+		modifier = {
+			factor = 0
+			is_at_war = yes
+		}
+	}
+} 
 
 
 ############
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
